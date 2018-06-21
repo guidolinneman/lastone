@@ -8,7 +8,7 @@ header{
 body{
   background-image: url('../pictures/iconbackground.png');
   background-repeat: no-repeat;
-  background-position: left top;
+  background-position: center;
   background-attachment: fixed;
   background-size: contain;
 }
